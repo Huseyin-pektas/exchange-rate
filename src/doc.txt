@@ -1,0 +1,11 @@
+BİR DÖVİZ KURU UYGULAMASI
+   A) UYGULAMANIN AMACI:
+   > Kullanıcı bu uygulama ile döviz kurlarını birbirlerine çevirip değerlerini  ekranda görebilecek.
+   B) YAPILACAKLAR:
+   > a) App.js içerisinde bir Component çağırılacak (+)
+   > b) Bu component içerisinde sayı girebileceğiz Inputlar, Select alanları  ve bir buton olacak.(+)
+   > c) bu inputlardaki ve select lerdeki değerleri yakalamak için UseState kullanılacak. buton için bir fonksiyon yazılacak.(+)
+   > d) React Icons kütüphanesi İmport edilecek.(+)
+   > e) Döviz kurlarının Gelmesi için Fake APİ kullanılacak.(+)
+   > f) Bu fake api için base url oluşturulacak.(+)
+   > g) Axios kütüphanesi ile veri çekme işlemi yapılacak.(+)
